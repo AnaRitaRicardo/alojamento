@@ -18,7 +18,7 @@ nav{
 nav a{
     color: rgba(0, 0, 0, 0.74);
     text-decoration: none;
-    margin: 10px;
+    margin: 15px;
 }
 
 nav a:hover{
@@ -79,3 +79,4 @@ main a {color: rgba(0, 0, 0, 0.795);
         margin: 20px;
     }
     
+  
