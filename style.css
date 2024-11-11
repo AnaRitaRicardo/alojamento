@@ -6,7 +6,7 @@ body{
 }
 
 nav{
-    background-color:rgba(107, 136, 115, 0.568);
+    background-color:#A3B6AB;
     margin: 0px;
     padding: 1px;
     font-weight:normal;
@@ -25,6 +25,7 @@ nav a:hover{
     color:  rgb(0, 0, 0);
     text-decoration: underline;
 }
+
 
 main h1{
     text-align: center;
