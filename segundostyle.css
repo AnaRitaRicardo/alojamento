@@ -12,6 +12,7 @@ body{
      font-family: 'Times New Roman', Times, serif;
      font-size: large;
      color: rgba(107, 136, 115, 0.568);
+     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.247);
  }
  
  nav a{
@@ -34,5 +35,18 @@ body{
      margin: 20px;
  }
  h1 {
-    margin: 30px;
+    margin: 50px;
  }
+ 
+ #imagem {
+text-align: center;
+background-color: #A3B6AB;
+margin: auto;
+padding: 50px;
+border-radius: 10px;
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.247);
+}
