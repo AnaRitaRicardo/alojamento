@@ -27,9 +27,7 @@ body{
      text-decoration: underline;
  }
  
-main{
-    margin: 20px;
-}
+
 
  main h1{
      text-align: center;
@@ -68,6 +66,10 @@ main{
          margin: 0px;
          padding: 10px;
          text-align: center;
+     }
+
+     footer p {
+        text-align: center;
      }
      #interior{
          text-align: left;
