@@ -66,6 +66,7 @@ body{
          margin: 0px;
          padding: 10px;
          text-align: center;
+         
      }
 
      footer p {
@@ -93,3 +94,20 @@ body{
          border-radius: 10px;
          box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.247);
      }
+
+      #primeirot{
+        text-align: center;
+        font-size:60px;
+        margin: 30px;
+        font-size: 30px;
+     }
+
+    #praia {
+        text-align: center ;
+    }
+
+
+
+
+
+    
